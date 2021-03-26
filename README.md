@@ -51,3 +51,8 @@
     <a href="https://wiki.python.org/moin/TkInter" target="_blank"> <img
             src="https://i2.wp.com/iot4beginners.com/wp-content/uploads/2020/04/65dc5834-de21-4e2e-bd4d-5e0c3c6994dd.jpg?fit=375%2C422&ssl=1"
             alt="tkinter" width="40" height="40" /> </a>
+     
+   </p>
+   
+[![Manas Baroi's github stats](https://github-readme-stats.vercel.app/api?username=manas6699&count_private=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manas6699&langs_count=20&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
