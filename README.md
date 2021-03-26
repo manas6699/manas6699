@@ -56,3 +56,16 @@
    
 [![Manas Baroi's github stats](https://github-readme-stats.vercel.app/api?username=manas6699&count_private=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manas6699&langs_count=20&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://www.facebook.com/profile.php?id=100007581703713" target="blank"><img align="center"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="60"
+            width="50" /></a>
+    <a href="https://www.linkedin.com/in/manas-baroi-0b8a23203/" target="blank"><img align="center"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="60"
+            width="50" /></a>
+    <a href="https://www.instagram.com/manasbaroi6699/?hl=bn"><img align="center"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="60"
+            width="50" /></a>
