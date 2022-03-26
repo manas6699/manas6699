@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Manas Baroi</h1>
 <h2 align="center">A passionate software developer from Government College of Engineering & Textile Technology, Berhampore</h2>
 
-<h3>
+<h2>
      I am a full stack web developer & a geeky coder !
-</h3>
+</h2>
 
-- 🔭 I’m currently working on ... web development
-- 🌱 I’m currently learning ... c++
-- 👯 I’m looking to collaborate on ... Game development, web development
+- 🔭 I’m currently trying to learn web development
+- 🌱 I’m currently learning ... javascript
+- 👯 I’m looking to collaborate on ... Full stack web development (MERN STACK)
 - 🤔 I’m looking for help with ... for life 
 - 💬 Ask me about ... anything , probably i can help you!
 - 📫 How to reach me: ... Drop me a mail at "manasbaroi6699@gmail.com"
