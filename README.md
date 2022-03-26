@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manas Baroi</h1>
 <h2 align="center">A passionate software developer from Government College of Engineering & Textile Technology, Berhampore</h2>
 
-<h2>
+<h3 align="center">
      I am a full stack web developer & a geeky coder !
-</h2>
+</h3>
 
 - 🔭 I’m currently trying to learn web development
 - 🌱 I’m currently learning ... javascript
