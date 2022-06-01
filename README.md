@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manas Baroi</h1>
 <h2 align="center">
-  A passionate software developer from Government College of Engineering &
+  A passionate software developer [ MERN STACK ] from Government College of Engineering &
   Textile Technology, Berhampore
   
 </h2>
@@ -66,14 +66,7 @@ MY PORTFOLIO WEBSITE : https://manas6699.github.io/portfolio-website3.0/
       height="40"
     />
   </a>
-  <a href="https://heroku.com" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
-      alt="heroku"
-      width="40"
-      height="40"
-    />
-  </a>
+  
   <a href="https://www.w3.org/html/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -157,11 +150,12 @@ stats](https://github-readme-stats.vercel.app/api?username=manas6699&count_priva
 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manas6699&langs_count=20&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Repo Card
+##  My Repo Card
 
-> These themes work both for the Stats Card and Repo Card.
-| | | |
+> These themes work both for the Stats Card and Repo Card
+
 | :--: | :--: | :--: |
+
 | `default_repocard` ![default_repocard][default_repocard_repo] | `dark` ![dark][dark_repo] | `radical` ![radical][radical_repo] |
 | `merko` ![merko][merko_repo] | `gruvbox` ![gruvbox][gruvbox_repo] | `gruvbox_light` ![gruvbox_light][gruvbox_light_repo] |
 | `tokyonight` ![tokyonight][tokyonight_repo] | `onedark` ![onedark][onedark_repo] | `cobalt` ![cobalt][cobalt_repo] |
