@@ -187,10 +187,12 @@ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manas6699&
 </p>
 
 
-| | | |
-| :--: | :--: | :--: |
-| `default_repocard` ![default_repocard][default_repocard_repo] | `dark` ![dark][dark_repo] | `radical` ![radical][radical_repo] |
-| `merko` ![merko][merko_repo] | `gruvbox` ![gruvbox][gruvbox_repo] | `gruvbox_light` ![gruvbox_light][gruvbox_light_repo] |
-| `tokyonight` ![tokyonight][tokyonight_repo] | `onedark` ![onedark][onedark_repo] | `cobalt` ![cobalt][cobalt_repo] |
-| `synthwave` ![synthwave][synthwave_repo] | `highcontrast` ![highcontrast][highcontrast_repo] | `dracula` ![dracula][dracula_repo] |
-| `prussian` ![prussian][prussian_repo] | `monokai` ![monokai][monokai_repo] | `vue` ![vue][vue_repo] |
+[default_repocard]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default_repocard
+[dark]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark
+[radical]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical
+[merko]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=merko
+[gruvbox]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox
+[gruvbox_light]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox_light
+[tokyonight]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight
+[onedark]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=onedark
+[cobalt]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=cobalt
