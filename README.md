@@ -185,3 +185,12 @@ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manas6699&
       width="50"
   /></a>
 </p>
+
+
+| | | |
+| :--: | :--: | :--: |
+| `default_repocard` ![default_repocard][default_repocard_repo] | `dark` ![dark][dark_repo] | `radical` ![radical][radical_repo] |
+| `merko` ![merko][merko_repo] | `gruvbox` ![gruvbox][gruvbox_repo] | `gruvbox_light` ![gruvbox_light][gruvbox_light_repo] |
+| `tokyonight` ![tokyonight][tokyonight_repo] | `onedark` ![onedark][onedark_repo] | `cobalt` ![cobalt][cobalt_repo] |
+| `synthwave` ![synthwave][synthwave_repo] | `highcontrast` ![highcontrast][highcontrast_repo] | `dracula` ![dracula][dracula_repo] |
+| `prussian` ![prussian][prussian_repo] | `monokai` ![monokai][monokai_repo] | `vue` ![vue][vue_repo] |
