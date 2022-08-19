@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manas Baroi</h1>
 <h2 align="center">
-  A passionate software developer [ MERN STACK ] from Government College of Engineering &
+  A passionate web developer [ MERN STACK ] from Government College of Engineering &
   Textile Technology, Berhampore
   
 </h2>
