@@ -5,14 +5,12 @@
   
 </h2>
 
-<h3 align="center">I am a full stack web developer & a geeky coder !</h3>
+<h3 align="center">I am a passionate full stack web developer who loves coding</h3>
 
-- 🔭 I’m currently trying to learn web development - 🌱 I’m currently learning
-... javascript - 👯 I’m looking to collaborate on ... Full stack web development
-(MERN STACK) - 🤔 I’m looking for help with ... for life - 💬 Ask me about ...
-anything , probably i can help you! - 📫 How to reach me: ... Drop me a mail at
-"manasbaroi6699@gmail.com" - ⚡ Fun fact: ... In my childhood I thought being
-older is fun - 🌱
+- 🔭 I’m currently learning full stack web development - 🌱 I’m currently learning
+... node js - 👯 I’m looking to collaborate on ... Full stack web development
+(MERN STACK)- 📫 How to reach me: ... Drop me a mail at
+"manasbaroi6699@gmail.com"
 </br>
 MY PORTFOLIO WEBSITE : https://manas6699.github.io/portfolio-website3.0/
 
