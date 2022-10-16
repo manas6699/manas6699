@@ -145,6 +145,8 @@ MY PORTFOLIO WEBSITE : https://manas6699.github.io/portfolio-website3.0/
 ## Visitors Counter
 ![](https://komarev.com/ghpvc/?username=manas6699&&color=blueviolet&style=for-the-badge)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmanas6699&count_bg=%237C4BC8&title_bg=%230BD6D4&icon=loop.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 [![Manas Baroi's github
 stats](https://github-readme-stats.vercel.app/api?username=manas6699&count_private=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 [![Top
