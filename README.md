@@ -143,7 +143,7 @@ MY PORTFOLIO WEBSITE : https://manas6699.github.io/portfolio-website3.0/
 </p>
 
 ## Visitors Counter
-![](https://komarev.com/ghpvc/?username=manas6699)
+![](https://komarev.com/ghpvc/?username=manas6699&&color=blueviolet&style=for-the-badge)
 
 [![Manas Baroi's github
 stats](https://github-readme-stats.vercel.app/api?username=manas6699&count_private=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
