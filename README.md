@@ -48,14 +48,7 @@ MY PORTFOLIO WEBSITE : https://manas6699.github.io/portfolio-website3.0/
       height="40"
     />
   </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
-      width="40"
-      height="40"
-    />
-  </a>
+
   <a href="https://git-scm.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -124,22 +117,7 @@ MY PORTFOLIO WEBSITE : https://manas6699.github.io/portfolio-website3.0/
       height="40"
     />
   </a>
-  <a href="https://www.unrealengine.com/en-US/" target="_blank">
-    <img
-      src="https://user-images.githubusercontent.com/16515307/33282121-0309b13a-d3eb-11e7-84b0-6d322ca89a5a.png"
-      alt="unreal engine"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://wiki.python.org/moin/TkInter" target="_blank">
-    <img
-      src="https://i2.wp.com/iot4beginners.com/wp-content/uploads/2020/04/65dc5834-de21-4e2e-bd4d-5e0c3c6994dd.jpg?fit=375%2C422&ssl=1"
-      alt="tkinter"
-      width="40"
-      height="40"
-    />
-  </a>
+  
 </p>
 
 ## Visitors Counter
@@ -147,8 +125,11 @@ MY PORTFOLIO WEBSITE : https://manas6699.github.io/portfolio-website3.0/
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmanas6699&count_bg=%237C4BC8&title_bg=%230BD6D4&icon=loop.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+# Github Stats
 [![Manas Baroi's github
 stats](https://github-readme-stats.vercel.app/api?username=manas6699&count_private=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+# Most Used Languages
 [![Top
 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manas6699&langs_count=20&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
