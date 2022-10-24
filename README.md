@@ -1,135 +1,95 @@
-<h1 align="center">Hi 👋, I'm Manas Baroi</h1>
-<h2 align="center">
-  A passionate web developer [ MERN STACK ] from Government College of Engineering &
-  Textile Technology, Berhampore
+
+<h1 align="center">Hi , I'm Manas Baroi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center" style="user-select: none;">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montez&size=50&pause=1000&color=00F726&center=true&vCenter=true&width=500&height=67&lines=I+am+a+passionate+web+developer+;(MERN)+Stack" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Nabla&size=55&pause=1000&color=DE46F7&center=true&vCenter=true&width=530&height=75&lines=Ui-Ux+designer" alt="Typing SVG" /></a>
+</p>
+<hr/>
+
+### 👨🏻‍💻 &nbsp;About Me
+
+
+🎓 &nbsp;I'm graduating with B.tech Computer Science from Government College of Engineering and Textile Technology,Berhampore.\
+🌱 &nbsp;I'm on track for learning more about <b>Full stack Web Development, Systems Design, Devops and Cloud Architecture</b>.\
+✍️ &nbsp;In my free time, I pursue technical Blog Writing as hobbies/side hustles and like to mentor juniors.\
+💬 &nbsp;Feel free to reach out to me for collaboration, or just for some interesting discussion over DS & Algorithm questions.\
+✉️ &nbsp;You can shoot me an email at manasbaroi6699@gmail.com ! I'll try to respond as soon as I can.
+
+
+### 🤝 &nbsp;Find out more about me & feel free to connect with me here:
+
+
+
+## 🛠️ My Skills
+
+### 👉 Programming languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Javscript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-013243?style=flat-square&logo=C++&logoColor=white)
+
+<!-- <span>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/c.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/arduino-1.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/raspberry-pi.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/php-1.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/python-5.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/mysql-6.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/readme.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/html.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/css.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/javascript.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/wolfram-language.svg" alt="drawing" width="50"/>
+  </span> -->
+
+### 👉 Frontend Development
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white)
+![Javscript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=Angular&logoColor=white)
+
+
+### 👉 Backend Development 
+
+![FastAPI](https://img.shields.io/badge/FastAPI-00599C?style=flat-square&logo=FastAPI&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+
+
+### 👉 Databases & Cloud Hosting
+
+![MySQl](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![Postgres SQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
+![Datastore](https://img.shields.io/badge/Datastore-777BB4?style=flat-square&logo=Google%20Cloud&logoColor=white)
+![SQLite3](https://img.shields.io/badge/SQLite3-003B57?style=flat-square&logo=SQLite&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white)
+
   
-</h2>
 
-<h3 align="center">I am a passionate full stack web developer who loves coding</h3>
+### 👉 Software & Tools
 
-- 🔭 I’m currently learning full stack web development - 🌱 I’m currently learning
-... node js - 👯 I’m looking to collaborate on ... Full stack web development
-(MERN STACK)- 📫 How to reach me: ... Drop me a mail at
-"manasbaroi6699@gmail.com"
-</br>
-MY PORTFOLIO WEBSITE : https://manas6699.github.io/portfolio-website3.0/
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
 
-  <a href="https://git-scm.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://postman.com" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/manas6699">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manas6699&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=manas6699&theme=algolia" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manas6699&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
-## Visitors Counter
-![](https://komarev.com/ghpvc/?username=manas6699&&color=blueviolet&style=for-the-badge)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmanas6699&count_bg=%237C4BC8&title_bg=%230BD6D4&icon=loop.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-# Github Stats
-[![Manas Baroi's github
-stats](https://github-readme-stats.vercel.app/api?username=manas6699&count_private=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-
-# Most Used Languages
-[![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manas6699&langs_count=20&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- ### 🏆 GitHub Profile Trophy:
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=manas6699=8&theme=algolia&no-frame=true&no-bg=true"/>
+</a>
+</p> -->
