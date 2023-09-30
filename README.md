@@ -20,7 +20,9 @@
 
 ### 📞 Contact Me
 Phone : 9038250350  .\
-Email : manasbaroi6699@gmail.com
+Email : manasbaroi6699@gmail.com \
+Portfolio : https://manas6699.github.io/portfolio-website3.0/  \
+Linkedin : https://www.linkedin.com/in/manasbaroi/
 
   
 
