@@ -18,18 +18,8 @@
 
 ### 🤝 &nbsp;Find out more about me & feel free to connect with me here:
 
-
-
-## 🛠️ My Skills
-
-### 👉 Programming languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Javscript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-013243?style=flat-square&logo=C++&logoColor=white)
-
 ### 📞 Contact Me
-Phone : 9038250350
+Phone : 9038250350  .\
 Email : manasbaroi6699@gmail.com
 
   
