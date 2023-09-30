@@ -13,10 +13,6 @@
 🌱 &nbsp;I'm on track for learning more about <b>Full stack Web Development, Systems Design, Devops and Cloud Architecture</b>.\
 ✍️ &nbsp;In my free time, I pursue technical Blog Writing as hobbies/side hustles and like to mentor juniors.\
 💬 &nbsp;Feel free to reach out to me for collaboration, or just for some interesting discussion over DS & Algorithm questions.\
-✉️ &nbsp;You can shoot me an email at manasbaroi6699@gmail.com ! I'll try to respond as soon as I can.
-
-
-### 🤝 &nbsp;Find out more about me & feel free to connect with me here:
 
 ### 📞 Contact Me
 Phone : 9038250350  .\
